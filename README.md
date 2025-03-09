@@ -15,7 +15,7 @@ Sou um estudante de Sistemas de Informação no 3º semestre, apaixonado por des
 ⚡ **Curiosidade:**  
 - Sou fã de jogos do Genero Souls Like e estou criando um software baseado em uma empresa fictícia para aprimorar minhas habilidades em projetos completos.
 🌟 **Vamos construir algo incrível juntos!**  
-Entre em contato comigo em [Seu E-mail ou LinkedIn].
+Entre em contato comigo:
 
 ## Redes Sociais ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sander-roni-b09337299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
