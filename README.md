@@ -1,6 +1,6 @@
 ### Olá, eu sou o  Sander! 👋 ###
 🎓 **Quem sou eu:**  
-Sou um estudante de Sistemas de Informação no 3º semestre, apaixonado por desenvolvimento de software, análise de dados e machine learning. Além disso, adoro explorar metodologias ágeis como Scrum e aprender sobre negócios com CRM e SCM.
+Sou um Técnologo de Sistemas de Informação, apaixonado por desenvolvimento de software, análise de dados e machine learning. Além disso, adoro explorar metodologias ágeis como Scrum e aprender sobre negócios com CRM e SCM.
 💻 **O que faço:**  
 - Atualmente, estou trabalhando em projetos que envolvem Python, Java e desenvolvimento de interfaces gráficas.
 - Estou desenvolvendo habilidades em Business Intelligence e Data Science.
@@ -9,7 +9,7 @@ Sou um estudante de Sistemas de Informação no 3º semestre, apaixonado por des
 - Construir projetos que combinam tecnologia e criatividade, como sistemas de controle, automações e games.
 
 📚 **Livros em progresso:**  
-- "Entendendo Algoritmos" - Aditya Bhargava  
+- "Como a Inteligência Artificial Funciona" - Ronald T. Kneusel 
 - "Python para Data Science e Machine Learning Descomplicado"
 
 ⚡ **Curiosidade:**  
