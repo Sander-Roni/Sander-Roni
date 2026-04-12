@@ -1,160 +1,132 @@
-# 👋 Olá, eu sou o Sander Roni
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADEF&size=25&center=true&vCenter=true&width=1000&lines=Tecnólogo+em+Sistemas+de+Informação;Pós+em+Inteligência+Artificial+para+Desenvolvedores;Desenvolvedor+Java+%7C+Python;Apaixonado+por+IA+e+Data+Science;Construindo+Projetos+e+Aprendendo+Sempre)](https://git.io/typing-svg)
+# ⚡ Sander Roni | AI Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Tecnólogo+em+Sistemas+de+Informação;Pós+em+Inteligência+Artificial;Desenvolvedor+Java+e+Python;Apaixonado+por+IA+e+Data+Science;Construindo+Tecnologias+do+Futuro" />
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+<div align="center">
 
-🎓 Tecnólogo em Sistemas de Informação  
-🤖 Pós-graduação em Inteligência Artificial para Desenvolvedores — UMC  
+### 🤖 Sobre Mim
+
+</div>
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🚀 Tecnólogo em Sistemas de Informação  
+🤖 Pós-graduação em Inteligência Artificial para Desenvolvedores  
 💻 Desenvolvedor Java | Python | Web  
-📊 Interessado em Data Science e Machine Learning  
+📊 Focado em Data Science e Machine Learning  
 🎮 Fã de jogos Souls Like  
-📚 Sempre estudando novas tecnologias  
+⚡ Construindo projetos completos e inteligentes  
 
 ---
 
-# 🎓 Formação Acadêmica
+# 🚀 Tecnologias
 
-- 🎓 Tecnólogo em Sistemas de Informação  
-- 🤖 Pós-Graduação em Inteligência Artificial para Desenvolvedores — UMC
+<div align="center">
+
+### Linguagens
+
+![Java](https://skillicons.dev/icons?i=java,python,php)
+
+### Web
+
+![Web](https://skillicons.dev/icons?i=html,css,js,bootstrap)
+
+### Banco de Dados
+
+![Banco](https://skillicons.dev/icons?i=mysql,postgres)
+
+### Ferramentas
+
+![Tools](https://skillicons.dev/icons?i=git,idea,vscode)
+
+</div>
 
 ---
 
-# 🎯 Foco Atual
+# 📊 Estatísticas Dinâmicas
 
-- Java Web (JSP, Servlets, Maven)
-- Inteligência Artificial
-- Data Science
-- Business Intelligence
-- Automação Inteligente
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sander-Roni&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-Roni&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Atividade no GitHub
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sander-Roni&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 # 🧠 Inteligência Artificial
 
-- Machine Learning
-- Inteligência Artificial aplicada
-- Python para IA
-- Data Science
-- Automação Inteligente
+<img align="right" height="160" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+
+- Machine Learning  
+- Inteligência Artificial  
+- Data Science  
+- Automação Inteligente  
+- Business Intelligence  
 
 ---
 
-# 📚 Atualmente Estudando
+# 🎯 Foco Atual
 
-- Como a Inteligência Artificial Funciona — Ronald T. Kneusel
-- Python para Data Science e Machine Learning
-- Inteligência Artificial para Desenvolvedores (Pós UMC)
-
----
-
-# 🌐 Redes Sociais
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sander-roni-b09337299)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanderroni2014@gmail.com)
-
----
-
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Sander-Roni&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-Roni&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 💻 Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-# 🌐 Web
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-# ⚙️ Backend & Banco
-
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-# 🛠️ IDEs
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
----
-
-# 📊 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+⚡ Java Web  
+⚡ Inteligência Artificial  
+⚡ Machine Learning  
+⚡ Automação  
+⚡ Sistemas Inteligentes  
 
 ---
 
 # 🖥️ Sistemas Operacionais
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-87CF3E?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div align="center">
+
+![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu)
+
+</div>
 
 ---
 
-# 🎨 Design
+# 🌐 Redes Sociais
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+<div align="center">
 
----
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sander-roni-b09337299)
 
-# 📚 Office
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sanderroni2014@gmail.com)
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+</div>
 
 ---
 
-# 🧪 Metodologias
+# 🐍 Contribuições Dinâmicas
 
-- Scrum
-- Agile
-- MVC
-- DAO Pattern
-- Clean Code
+<div align="center">
 
----
+![Snake animation](https://github.com/Sander-Roni/Sander-Roni/blob/output/github-contribution-grid-snake.svg)
 
-# 🚀 Projetos em Destaque
-
-- Sistema Java Web com Maven
-- Automação com Python
-- Projeto Business Intelligence
-- Projeto Inteligência Artificial
+</div>
 
 ---
 
-⭐ Sempre aprendendo e evoluindo!
+<div align="center">
+
+⚡ Construindo o Futuro com Inteligência Artificial ⚡
+
+</div>
