@@ -1,27 +1,41 @@
 <div align="center">
 
-# ⚡ Sander Roni | AI Developer
+# ⚡ Sander Roni | AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Tecnólogo+em+Sistemas+de+Informação;Pós+em+Inteligência+Artificial;Desenvolvedor+Java+e+Python;Apaixonado+por+IA+e+Data+Science;Construindo+Tecnologias+do+Futuro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Tecnólogo+em+Sistemas+de+Informação;Pós+em+Inteligência+Artificial;Java+%7C+Python+Developer;Machine+Learning+Engineer;Construindo+Tecnologias+do+Futuro" />
+
+<img src="https://komarev.com/ghpvc/?username=Sander-Roni&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
+<img align="right" height="220" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+
+# 🤖 Sobre Mim
+
+🚀 Tecnólogo em Sistemas de Informação  
+🤖 Pós-graduação em Inteligência Artificial  
+💻 Desenvolvedor Java | Python  
+📊 Data Science & Machine Learning  
+🎮 Fã de Souls Like  
+⚡ Construindo soluções inteligentes  
+
+---
+
+# 🧠 Inteligência Artificial
+
 <div align="center">
 
-### 🤖 Sobre Mim
+![AI](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
 
 </div>
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🚀 Tecnólogo em Sistemas de Informação  
-🤖 Pós-graduação em Inteligência Artificial para Desenvolvedores  
-💻 Desenvolvedor Java | Python | Web  
-📊 Focado em Data Science e Machine Learning  
-🎮 Fã de jogos Souls Like  
-⚡ Construindo projetos completos e inteligentes  
+- Machine Learning  
+- Inteligência Artificial  
+- Automação Inteligente  
+- Data Science  
+- Business Intelligence  
 
 ---
 
@@ -29,19 +43,19 @@
 
 <div align="center">
 
-### Linguagens
+### 💻 Linguagens
 
-![Java](https://skillicons.dev/icons?i=java,python,php)
+![Langs](https://skillicons.dev/icons?i=java,python,php)
 
-### Web
+### 🌐 Web
 
 ![Web](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
-### Banco de Dados
+### ⚙️ Backend
 
-![Banco](https://skillicons.dev/icons?i=mysql,postgres)
+![Backend](https://skillicons.dev/icons?i=mysql,postgres,maven)
 
-### Ferramentas
+### 🛠️ Ferramentas
 
 ![Tools](https://skillicons.dev/icons?i=git,idea,vscode)
 
@@ -49,46 +63,24 @@
 
 ---
 
-# 📊 Estatísticas Dinâmicas
+# 📊 Atividade no GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sander-Roni&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-Roni&layout=compact&theme=tokyonight"/>
+[![Sander github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sander-Roni&theme=tokyo-night)](https://github.com/Sander-Roni)
 
 </div>
-
----
-
-# 🔥 Atividade no GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sander-Roni&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-# 🧠 Inteligência Artificial
-
-<img align="right" height="160" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
-- Machine Learning  
-- Inteligência Artificial  
-- Data Science  
-- Automação Inteligente  
-- Business Intelligence  
 
 ---
 
 # 🎯 Foco Atual
 
-⚡ Java Web  
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ⚡ Inteligência Artificial  
+⚡ Java Web  
 ⚡ Machine Learning  
-⚡ Automação  
+⚡ Data Science  
 ⚡ Sistemas Inteligentes  
 
 ---
@@ -103,11 +95,11 @@
 
 ---
 
-# 🌐 Redes Sociais
+# 🌐 Conecte-se Comigo
 
 <div align="center">
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sander-roni-b09337299)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sander-roni-b09337299)
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sanderroni2014@gmail.com)
 
@@ -115,18 +107,23 @@
 
 ---
 
-# 🐍 Contribuições Dinâmicas
+# 🚀 Atualmente Estudando
 
 <div align="center">
 
-![Snake animation](https://github.com/Sander-Roni/Sander-Roni/blob/output/github-contribution-grid-snake.svg)
+![Learning](https://skillicons.dev/icons?i=java,python,git,linux)
 
 </div>
+
+- Inteligência Artificial  
+- Machine Learning  
+- Java Web  
+- Automação Inteligente  
 
 ---
 
 <div align="center">
 
-⚡ Construindo o Futuro com Inteligência Artificial ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
 
 </div>
